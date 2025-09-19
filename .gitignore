@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+happiness_env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints/*
+
+# Data files (optional - you might want to track small datasets)
+# data/raw/*.csv
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
